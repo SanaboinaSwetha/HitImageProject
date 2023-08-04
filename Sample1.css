@@ -1,0 +1,20 @@
+body{
+    background: url(https://cdn.wallpapersafari.com/15/19/eoW5QF.jpg) no-repeat;
+
+    color:pink;
+}
+p{
+    font-size: 30px;
+}
+h1{
+    color:pink;
+    margin-top: 20px;
+}
+button{
+    border-radius: 30px;
+    height: 50px;
+    width:100px;
+    border: black;
+   
+   
+}
